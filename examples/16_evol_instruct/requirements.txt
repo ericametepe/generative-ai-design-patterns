@@ -1,0 +1,9 @@
+datasets==3.5.0
+nest-asyncio==1.6.0
+pandas==2.2.3
+pydantic-ai==0.1.2
+python-dotenv==1.1.0
+torch==2.6.0
+transformers==4.51.3
+trl==0.16.1
+unsloth==2025.3.19

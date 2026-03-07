@@ -1,0 +1,4 @@
+llama-index==0.12.28
+nest-asyncio==1.6.0
+pydantic-ai==0.0.53
+python-dotenv==1.1.0
