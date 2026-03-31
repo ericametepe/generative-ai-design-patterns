@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: agentic-ai
+  ai:
+    openai:
+      base-url:  http://localhost:5000/gateway/mlflow
+      api-key: API_KEY
+      chat:
+        options:
+          model: openrouter
